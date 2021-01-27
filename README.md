@@ -20,7 +20,7 @@
 
 <img align="left" alt="PyCharm" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1024px-PyCharm_Logo.svg.png" style="max-width:100%;">
 
-<img align="left" alt="HTML5" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width:100%;"> 
+<img align="left" alt="HTML5" width="28px" src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" style="max-width:100%;"> 
 
 <img align="left" alt="JavaScript" width="28px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" style="max-width:100%;">
 
