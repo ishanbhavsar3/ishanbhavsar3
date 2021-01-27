@@ -1,6 +1,6 @@
 ### Hola, I'm Ishan Bhavsar! 👋
 
-- 🔭 I’m currently working on a Java based Lottery System using BlueJ IDE.
+- 🔭 I’m currently working on a Java based Billing and entertainment systems using BlueJ IDE.
 - 🌱 I’m currently learning Java and a bit of Python and JavaScript!
 - 👯 I’m looking to collaborate on basic beginner Java and HTML Projects.
 - 💬 Ask me about latest technologies like AI and other hardware & software.
