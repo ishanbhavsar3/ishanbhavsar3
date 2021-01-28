@@ -31,14 +31,9 @@
   
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishanbhavsar3&theme=light&hide_langs_below=1" alt = "Ishan's top languages"/>
 
-
-<center>
-
-<a>
-  
+ 
 **My Languages and tools:**
 
-<code>
   
   <img align="left" alt="Java" width="28px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" style="max-width:100%;">
 
@@ -53,6 +48,3 @@
 <img align="left" alt="JavaScript" width="28px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" style="max-width:100%;">
 
 <img align="left" alt="Visual Studio Code" width="28px" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" style="max-width:100%;">
-
-</code>
-</a>
