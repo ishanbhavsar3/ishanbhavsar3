@@ -7,8 +7,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm the guy who answers almost all the time in the computer class 😎
 
-<img src = "https://github-readme-stats.vercel.app/api?username=ishanbhavsar3&show_icons=true&theme=tokyonight">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ishanbhavsar3&theme=tokyonight&show_icons=true">
+<img src = "https://github-readme-stats.vercel.app/api?username=ishanbhavsar3&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ishanbhavsar3&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 ### My Languages and tools:
 
