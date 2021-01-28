@@ -28,7 +28,7 @@
 <img src = "https://github-readme-stats.vercel.app/api?username=ishanbhavsar3&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ishanbhavsar3&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-### My Languages and tools:
+**My Languages and tools:**
 
 <img align="left" alt="Java" width="28px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" style="max-width:100%;"> 
 
