@@ -1,7 +1,7 @@
 ### Hola, I am [Ishan Bhavsar](https://linktr.ee/itsishan_)! 👋
 
 <a href="https://twitter.com/___ishan_______">
-  <img align="left" alt="Ishan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Ishan's Twitter" width="22px" src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c53e.png" />
 </a>
 <a href="https://github.com/ishanbhavsar3">
   <img align="left" alt="Ishan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -39,7 +39,7 @@
 <img align="left" alt="PyCharm" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1024px-PyCharm_Logo.svg.png" style="max-width:100%;">
 
 <img align="left" alt="HTML5" width="28px" src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" style="max-width:100%;"> 
-
+ 
 <img align="left" alt="JavaScript" width="28px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" style="max-width:100%;">
 
 <img align="left" alt="Visual Studio Code" width="28px" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" style="max-width:100%;">
