@@ -45,7 +45,8 @@
 
 <img align="left" alt="Visual Studio Code" width="28px" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" style="max-width:100%;">
 
-
+<br/>
+<br/>
 
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ishanbhavsar3&show_icons=true&theme=light&line_height=27" alt="Ishan's github stats"/>
   
