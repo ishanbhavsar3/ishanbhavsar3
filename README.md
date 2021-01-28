@@ -27,13 +27,15 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm the guy who answers almost all the time in the computer class 😎
 
-<a href="https://github.com/ishanbhavsar3">
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=ishanbhavsar3&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=ishanbhavsar3&show_icons=true&theme=light&line_height=27" alt="Ishan's github stats"/>
   
-  <a href="https://github.com/ishanbhavsar3">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishanbhavsar3&theme=light&hide_langs_below=1" />
-</a>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishanbhavsar3&theme=light&hide_langs_below=1" alt = "Ishan's top languages"/>
 
+
+<center>
+
+<a>
+  
 **My Languages and tools:**
 
 <code>
@@ -53,3 +55,4 @@
 <img align="left" alt="Visual Studio Code" width="28px" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" style="max-width:100%;">
 
 </code>
+</a>
