@@ -32,16 +32,20 @@
 
 **My Languages and tools:**
 
-<code><img align="left" alt="Java" width="28px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" style="max-width:100%;"></code>
+<code>
+  
+  <img align="left" alt="Java" width="28px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" style="max-width:100%;">
 
-<code><img align="left" alt="BlueJ" width="28px" src="https://www.bluej.org/bluej-icons/bluej-vista.ico" style="max-width:100%;"> </code>
+<img align="left" alt="BlueJ" width="28px" src="https://www.bluej.org/bluej-icons/bluej-vista.ico" style="max-width:100%;"> 
 
-<code><img align="left" alt="Python" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" style="max-width:100%;"></code>
+<img align="left" alt="Python" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" style="max-width:100%;">
 
-<code><img align="left" alt="PyCharm" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1024px-PyCharm_Logo.svg.png" style="max-width:100%;"></code>
+<img align="left" alt="PyCharm" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1024px-PyCharm_Logo.svg.png" style="max-width:100%;">
 
-<code><img align="left" alt="HTML5" width="28px" src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" style="max-width:100%;"> </code>
+<img align="left" alt="HTML5" width="28px" src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" style="max-width:100%;">
  
-<code><img align="left" alt="JavaScript" width="28px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" style="max-width:100%;"></code>
+<img align="left" alt="JavaScript" width="28px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" style="max-width:100%;">
 
-<code><img align="left" alt="Visual Studio Code" width="28px" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" style="max-width:100%;"></code>
+<img align="left" alt="Visual Studio Code" width="28px" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" style="max-width:100%;">
+
+</code>
