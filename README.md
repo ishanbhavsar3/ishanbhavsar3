@@ -1,4 +1,4 @@
-### Hola, I'm Ishan Bhavsar! 👋
+### Hola, I am [Ishan Bhavsar](https://linktr.ee/itsishan_)! 👋
 
 - 🔭 I’m currently working on Java based Billing and entertainment systems using BlueJ IDE.
 - 🌱 I’m currently learning Java and a bit of Python and JavaScript!
@@ -9,6 +9,21 @@
 
 <img src = "https://github-readme-stats.vercel.app/api?username=ishanbhavsar3&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ishanbhavsar3&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+### Reach out to me!
+
+<a href="https://twitter.com/___ishan_______">
+  <img align="left" alt="Ishan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://github.com/ishanbhavsar3">
+  <img align="left" alt="Ishan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://t.me/ishan0303">
+  <img align="left" alt="Ishan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://instagram.com/ishan0303/">
+  <img align="left" alt="Ishan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
 ### My Languages and tools:
 
