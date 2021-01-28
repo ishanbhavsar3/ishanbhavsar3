@@ -17,6 +17,8 @@
 <br/>
 
 [![GitHub ishanbhavsar3](https://img.shields.io/github/followers/ishanbhavsar3?label=follow&style=social)](https://github.com/ishanbhavsar3)
+[![Twitter: ___ishan_______](https://img.shields.io/twitter/follow/___ishan_______?style=social)](https://twitter.com/___ishan_______)
+[![website](https://img.shields.io/badge/PersonalWebpage-linktr.ee/itsishan_-2648ff?style=flat-square&logo=google-chrome)](https://linktr.ee/itsishan_)
 
 - 🔭 I’m currently working on Java based Billing and entertainment systems using BlueJ IDE.
 - 🌱 I’m currently learning Java and a bit of Python and JavaScript!
