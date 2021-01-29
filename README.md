@@ -26,7 +26,7 @@
 
 [![GitHub ishanbhavsar3](https://img.shields.io/github/followers/ishanbhavsar3?label=follow&style=social)](https://github.com/ishanbhavsar3)
 [![Twitter: ___ishan_______](https://img.shields.io/twitter/follow/___ishan_______?style=social)](https://twitter.com/___ishan_______)
-[![website](https://img.shields.io/badgeMy Webpage -linktr.ee/itsishan_-2648ff?style=flat-square&logo=google-chrome)](https://linktr.ee/itsishan_)
+[![website](https://img.shields.io/badgeMyWebpage-linktr.ee/itsishan_-2648ff?style=flat-square&logo=google-chrome)](https://linktr.ee/itsishan_)
 
 **My Languages and tools:**
 
