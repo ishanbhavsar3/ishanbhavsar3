@@ -37,7 +37,7 @@
 
 <img align="left" alt="Python" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" style="max-width:100%;">
 
-<img align="left" alt="PyCharm" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1024px-PyCharm_Logo.svg.png" style="max-width:100%;">
+<img align="left" alt="PyCharm" width="28px" src="http://assets.stickpng.com/images/58481537cef1014c0b5e4968.png" style="max-width:100%;">
 
 <img align="left" alt="HTML5" width="28px" src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" style="max-width:100%;">
  
