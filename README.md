@@ -37,7 +37,7 @@
 
 <img align="left" alt="Python" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" style="max-width:100%;">
 
-<img align="left" alt="PyCharm" width="28px" src="https://financesonline.com/uploads/2019/08/PyCharm_Logo1.png" style="max-width:100%;">
+<img align="left" alt="PyCharm" width="28px" src="https://www.pinclipart.com/picdir/middle/55-551463_clipart-transparent-stock-python-tool-review-using-pycharm.png" style="max-width:100%;">
 
 <img align="left" alt="HTML5" width="28px" src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" style="max-width:100%;">
  
