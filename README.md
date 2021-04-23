@@ -16,7 +16,7 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on Java based Billing and entertainment systems using BlueJ IDE.
+- 🔭 I’m currently working on Java based Billing and entertainment systems using IntelliJ IDE.
 - 🌱 I’m currently learning Java and a bit of Python and JavaScript!
 - 👯 I’m looking to collaborate on basic beginner Java and HTML Projects.
 - 💬 Ask me about latest technologies like AI and other hardware & software.
@@ -32,12 +32,13 @@
 
   
   <img align="left" alt="Java" width="28px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" style="max-width:100%;">
+  
+<img align="left" alt="IntelliJ" width="28px" src="https://commons.wikimedia.org/wiki/File:IntelliJ_IDEA_Icon.svg" style="max-width:100%;"> 
 
 <img align="left" alt="BlueJ" width="28px" src="https://www.bluej.org/bluej-icons/bluej-vista.ico" style="max-width:100%;"> 
 
 <img align="left" alt="Python" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" style="max-width:100%;">
 
-<img align="left" alt="PyCharm" width="28px" src="https://www.pinclipart.com/picdir/middle/55-551463_clipart-transparent-stock-python-tool-review-using-pycharm.png" style="max-width:100%;">
 
 <img align="left" alt="HTML5" width="28px" src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" style="max-width:100%;">
  
