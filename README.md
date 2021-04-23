@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on Java based Billing and entertainment systems using IntelliJ IDE.
 - 🌱 I’m currently learning Java and a bit of Python and JavaScript!
-- 👯 I’m looking to collaborate on basic beginner Java and HTML Projects.
+- 👯 I’m looking to collaborate on basic beginner Java Swing class projects.
 - 💬 Ask me about latest technologies like AI and other hardware & software.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm the guy who answers almost all the time in the computer class 😎
@@ -33,7 +33,7 @@
   
   <img align="left" alt="Java" width="28px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" style="max-width:100%;">
   
-<img align="left" alt="IntelliJ" width="28px" src="https://commons.wikimedia.org/wiki/File:IntelliJ_IDEA_Icon.svg" style="max-width:100%;"> 
+<img align="left" alt="IntelliJ" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" style="max-width:100%;"> 
 
 <img align="left" alt="BlueJ" width="28px" src="https://www.bluej.org/bluej-icons/bluej-vista.ico" style="max-width:100%;"> 
 
