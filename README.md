@@ -16,10 +16,10 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on Java based Billing and entertainment systems using IntelliJ IDE.
-- 🌱 I’m currently learning Java and a bit of Python and JavaScript!
-- 👯 I’m looking to collaborate on basic beginner Java Swing class projects.
-- 💬 Ask me about latest technologies like AI and other hardware & software.
+- 🔭 I’m currently working on Java billing and calculation systems using IntelliJ IDE.
+- 🌱 I’m currently learning core Java while taking HTML / CSS courses here and there!
+- 👯 I’m looking to collaborate on basic Java Swing class projects and website building.
+- 💬 Ask me about latest technologies like AI, ML, DL and other hardware & software.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm the guy who answers almost all the time in the computer class 😎
 
