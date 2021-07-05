@@ -42,8 +42,6 @@
   
 <img align="left" alt="IntelliJ" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" style="max-width:100%;"> 
 
-<img align="left" alt="BlueJ" width="28px" src="https://www.bluej.org/bluej-icons/bluej-vista.ico" style="max-width:100%;"> 
-
 <img align="left" alt="Python" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" style="max-width:100%;">
 
 <img align="left" alt="PyCharm" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" style="max-width:100%;"> 
