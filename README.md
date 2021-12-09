@@ -17,11 +17,11 @@
 <br/>
 
 - 🔭 I’m currently working on Java billing and calculation systems using IntelliJ IDE.
-- 🌱 I’m currently learning core Java while taking HTML / CSS courses here and there!
+- 🌱 I’m currently learning core Java & Python while taking HTML / CSS courses here and there!
 - 👯 I’m looking to collaborate on basic Java Swing class projects and website building.
-- 💬 Ask me about latest technologies like AI, ML, DL and other hardware & software.
+- 💬 Ask me about latest technologies like AI, ML, DL and other hardware & software. I also help beginners.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm the guy who answers almost all the time in the computer class 😎
+- ⚡ Fun fact: I have secured Second Position in Coding (Senior Category, West Region) and got a trophy 🏆️ from Design Championship India 😎
 
 
 [![GitHub ishanbhavsar3](https://img.shields.io/github/followers/ishanbhavsar3?label=follow&style=social)](https://github.com/ishanbhavsar3)
