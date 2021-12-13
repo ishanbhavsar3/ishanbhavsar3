@@ -1,4 +1,4 @@
-### Hola, I am [Ishan Bhavsar](https://linktr.ee/itsishan_)! 👋
+### Hey, I am [Ishan Bhavsar](https://linktr.ee/itsishan_)! 👋
 
 <a href="https://twitter.com/___ishan_______">
   <img align="left" alt="Ishan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
