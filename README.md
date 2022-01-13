@@ -11,6 +11,7 @@
 </a>
 <a href="https://instagram.com/ishanbhavsar_/">
   <img align="left" alt="Ishan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <target = _blank>
 </a>
 
 <br/>
