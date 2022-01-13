@@ -9,7 +9,7 @@
 <a href="https://t.me/ishan0303">
   <img align="left" alt="Ishan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://instagram.com/ishanb03/">
+<a href="https://instagram.com/ishanbhavsar_/">
   <img align="left" alt="Ishan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
