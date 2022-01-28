@@ -56,8 +56,10 @@
 <br/>
 <br/>
 
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=ishanbhavsar3&show_icons=true&theme=light&line_height=27" alt="Ishan's github stats"/>
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=ishanbhavsar3&show_icons=true&theme=dark&line_height=27" alt="Ishan's github stats"/>
   
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishanbhavsar3&theme=light&hide_langs_below=1" alt = "Ishan's top languages"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishanbhavsar3&theme=dark&hide_langs_below=1" alt = "Ishan's top languages"/>
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ishanbhavsar3&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
  
