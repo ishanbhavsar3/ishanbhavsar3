@@ -22,7 +22,7 @@
 - 👯 I’m looking to collaborate on basic Java Swing class projects and website building.
 - 💬 Ask me about latest technologies like AI, ML, DL and other hardware & software. I also help beginners.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have secured Second Position in Coding (Senior Category, West Region) and got a trophy 🏆️ from Design Championship India 😎
+- ⚡ Fun fact: I have secured Second Position in Coding (Senior Category, West Region) and got a trophy 🏆️ from Design Championship India. I also have 5 world record certificates from a satellite launch event, where I learnt AutoCAD 
 
 
 [![GitHub ishanbhavsar3](https://img.shields.io/github/followers/ishanbhavsar3?label=follow&style=social)](https://github.com/ishanbhavsar3)
