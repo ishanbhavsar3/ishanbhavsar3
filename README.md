@@ -1,8 +1,6 @@
 ### Hey, I am [Ishan Bhavsar](https://linktr.ee/itsishan_)! 👋
 
-<a href="https://twitter.com/___ishan_______" target="_blank">
-  <img align="left" alt="Ishan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+
 <a href="https://github.com/ishanbhavsar3" target="_blank">
   <img align="left" alt="Ishan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
